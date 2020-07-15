@@ -1,6 +1,7 @@
-name: EliteTeamsi
+name: EliteBedwars
 version: 0.1
-main: it.marcodemartino.teams.Teams
+main: it.marcodemartino.bedwars.BedWars
 
 commands:
-  match:
+  bedwars:
+    aliases: bw

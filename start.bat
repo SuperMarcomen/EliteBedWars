@@ -1,0 +1,1 @@
+MOVE "target\EliteBedWars-0.1.jar" ".\testServer 1.12.2\plugins"
